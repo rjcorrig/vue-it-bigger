@@ -6,3 +6,4 @@ gh-pages/
 node_modules/
 *.tgz
 .npmrc
+package-lock.json
